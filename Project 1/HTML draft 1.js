@@ -1,0 +1,2 @@
+alert("This is a little test to see if it works or not, but if it does then it's safe to say that it's good enough for me!");
+alert("Hello and welcome to my first ever coding project, where I making a series of web pages that's all about... me!");
