@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulLay1
 - 👀 I’m interested in becoming a programmer and coder
-- 🌱 I’m currently learning web and software development
+- 🌱 I’m currently learning web and software development, or data science.
 - 💞️ I’m looking to collaborate on open projects and make as much collaborations as possible.
 - 📫 How to reach me? You can follow my Github Username: PaulLay1, LinkedIn: Paul Lay (Verified),
 - 😄 Pronouns: He/Him/His
